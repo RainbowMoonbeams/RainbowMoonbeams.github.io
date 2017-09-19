@@ -151,8 +151,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(255, 255, 255, 0.5)),
-   url("../img/my-fullsize/colorfuldots.jpeg");
+  background-image: url("../img/my-fullsize/plant-next-to-computer.jpeg");
   text-align: center;
   color: white;
 }
