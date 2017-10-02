@@ -431,3 +431,13 @@ ul {
 #btn-get-at-me {
   margin: 40px;
 }
+iframe {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+.tour-dishmo {
+  color: orange;
+  text-align: center;
+  padding-bottom: 40px;
+}
